@@ -7,6 +7,7 @@
 ### 1. Getting Started
 - [1.1 - Add and run](docs/1.%20Getting%20Started/1.1%20-%20Add%20and%20run.md)
 - [1.2 - Some basics](docs/1.%20Getting%20Started/1.2%20-%20Some%20basics.md)
+- [1.3 - Create a shape (MUST READ)](docs/1.%20Getting%20Started/1.3%20-%20Create%20a%20shape%20(MUST%20READ).md)
 
 ### 2. Full Settings Guide
 - [2.1 - Shape Config](docs/2.%20Full%20Settings%20Guide/2.1%20-%20Shape%20Config.md)
