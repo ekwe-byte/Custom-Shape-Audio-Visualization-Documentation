@@ -1,6 +1,7 @@
 # Custom Shape Audio Visualization Documentation
 
-> ⚠️ **Status:** *It's currently a work in progress.*
+> [!TIP]
+> **Status:** Completed.
 
 ## Table of Contents
 
@@ -33,7 +34,7 @@ If you encounter any errors, bugs, or have any suggestions, please contact me:
 > 💖 **Note:** I've spent a lot of time improving this asset. If you like it, could you take a few seconds to give me a **positive rating**? It would be a huge encouragement for me!
 
 ## 🔗 Links
-* [Custom Shape Audio Visualization - Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3365654061)
+* [Custom Shape Audio Visualization - Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3666543848)
 
 <br><br>
 ![tysm](images/tysm.png)
